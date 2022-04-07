@@ -1,4 +1,4 @@
-//Navbar Fixed
+// Navbar Fixed
 window.onscroll = function () {
     const header = document.querySelector('header');
     const fixedNav = header.offsetTop;
@@ -10,7 +10,7 @@ window.onscroll = function () {
     }
 };
 
-//humberger
+// Hamburger
 const hamburger = document.querySelector('#hamburger');
 const navMenu = document.querySelector('#nav-menu');
 
